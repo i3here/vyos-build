@@ -12,5 +12,5 @@
     "deb [arch=amd64] https://repo.saltproject.io/py3/debian/10/amd64/3003 buster main",
     "deb [arch=amd64] http://repo.powerdns.com/debian buster-rec-47 main"
   ],
-  "custom_packages": []
+  "custom_packages": ["build-essential","linux-headers-5.4.218-amd64-vyos"]
 }
